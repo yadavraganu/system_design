@@ -13,6 +13,7 @@ Here are some parameters to keep in mind as:
 - Quality
 - Complexity
 - Hardware Support 
+- Splitability
 
 There are several different compression codecs available as:
 
